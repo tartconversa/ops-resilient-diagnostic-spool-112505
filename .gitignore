@@ -10,3 +10,7 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+/rehearsal_report.json
