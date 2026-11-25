@@ -1,0 +1,3 @@
+{"source":"front","horizon_ms":30,"protected_types":["error","end"],"reserve_units":20}
+{"source":"worker","horizon_ms":36,"protected_types":["error","end"],"reserve_units":26}
+{"source":"health","horizon_ms":0,"protected_types":["error"],"reserve_units":8}

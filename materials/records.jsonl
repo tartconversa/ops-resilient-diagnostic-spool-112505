@@ -1,0 +1,15 @@
+{"at_ms":2,"source":"front","trace":"t20","part":1,"record_id":"f-201","kind":"detail","size_units":5}
+{"at_ms":4,"source":"worker","trace":"t40","part":1,"record_id":"w-401","kind":"detail","size_units":8}
+{"at_ms":7,"source":"health","trace":"h1","part":1,"record_id":"h-11","kind":"routine","size_units":5}
+{"at_ms":12,"source":"front","trace":"t20","part":2,"record_id":"f-202","kind":"detail","size_units":9}
+{"at_ms":16,"source":"worker","trace":"t40","part":2,"record_id":"w-402","kind":"detail","size_units":8}
+{"at_ms":23,"source":"front","trace":"t20","part":3,"record_id":"f-203","kind":"error","size_units":8}
+{"at_ms":29,"source":"health","trace":"h2","part":1,"record_id":"h-21","kind":"routine","size_units":9}
+{"at_ms":37,"source":"worker","trace":"t40","part":4,"record_id":"w-404","kind":"error","size_units":11}
+{"at_ms":41,"source":"worker","trace":"t40","part":5,"record_id":"w-405","kind":"end","size_units":2}
+{"at_ms":44,"source":"front","trace":"t20","part":4,"record_id":"f-204","kind":"end","size_units":2}
+{"at_ms":48,"source":"worker","trace":"t40","part":3,"record_id":"w-403","kind":"detail","size_units":6}
+{"at_ms":54,"source":"front","trace":"t20","part":3,"record_id":"f-203","kind":"error","size_units":8}
+{"at_ms":62,"source":"front","trace":"t21","part":1,"record_id":"f-211","kind":"detail","size_units":9}
+{"at_ms":68,"source":"front","trace":"t21","part":2,"record_id":"f-212","kind":"error","size_units":8}
+{"at_ms":69,"source":"front","trace":"t21","part":3,"record_id":"f-213","kind":"end","size_units":2}
